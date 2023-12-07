@@ -1,0 +1,5 @@
+apiversion: V1
+kind: Namespace
+metadata:
+  name: roboshop-vijay
+  
